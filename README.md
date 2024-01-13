@@ -1,1 +1,1 @@
-# Data-Structures-and-Algorithms
+Different Data Structures and Algorithms are implemented in C++
